@@ -18,6 +18,7 @@
   background: #3a4452;
   padding: 30px;
   border-radius: 15px;
+  background: linear-gradient(45deg, #0a0a0a, #3a4452); 
 }
 
 .calculator form input{
